@@ -11,7 +11,7 @@ Dataset disponible en: https://www.kaggle.com/competitions/playground-series-s4e
 
 ## Instrucciones de Instalación
 
-1. Clona el repositorio: 
+1. Clona el repositorio: https://github.com/arasolfer/depression_prediction.git
 
 ## Uso
 
